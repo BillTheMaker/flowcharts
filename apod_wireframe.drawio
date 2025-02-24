@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="cyEkYREf_0M79rxhCRcP">
-    <mxGraphModel>
+    <mxGraphModel dx="500" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="150" as="targetPoint" />
+            <mxPoint x="170" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="350" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-7" value="Big ol picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="10" y="50" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-10" value="Text Information about the picture that scrolls." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="10" y="370" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="155" y="320" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-12" value="History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="20" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-15" value="Contains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="70" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-14" value="Prev" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="120" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-13" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="170" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-17" value="Calendar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="220" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-16" value="etc..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="270" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-18" value="Header" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="10" y="10" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-19" value="Save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="300" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlhmQ_-iLpyyKqKsMDgx-20" value="Scroll bar&amp;nbsp;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="XlhmQ_-iLpyyKqKsMDgx-5">
+          <mxGeometry x="330" y="370" width="10" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
